@@ -1,0 +1,12 @@
+.header {
+    background-color: rgb(216, 63, 239); 
+    padding: 10px;               
+    border: 1px solid #8fa718; 
+    font-weight: bold;           
+    font-size: 1.2em;            
+}
+
+.red-text {
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+}
